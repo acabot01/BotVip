@@ -8,9 +8,9 @@
 // SC SEDIKIT DI KEMBANGKAN OLEH BANG AZ
 
 //=============『 Utama 』================== //
-global.owner = ['6289688069444','6285795035419','6283183321692','628995404155','62895411075941','62895386445819','6285828764046','6283183321692'] 
-global.mods = ['6289688069444','6285795035419','6283183321692','628995404155','62895411075941','62895386445819','6285828764046','6283183321692'] 
-global.prems = ['6289688069444','6285795035419','6283183321692','628995404155','62895411075941','62895386445819','6285828764046','6283183321692'] 
+global.owner = ['6289688069444','6285795035419','6289647417373','6283183321692','628995404155','62895411075941','62895386445819','6285828764046','6289518487462','6285228906300','6283183321692'] 
+global.mods = ['6289688069444','6285795035419','6289647417373','6283183321692','628995404155','62895411075941','62895386445819','6285828764046','6289518487462','6285228906300','6283183321692'] 
+global.prems = ['6289688069444','6285795035419','6289647417373','6283183321692','628995404155','62895411075941','62895386445819','6285828764046','6289518487462','6285228906300','6283183321692'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ nomor developerঔৣ꧂'
@@ -24,7 +24,7 @@ global.sss = 'https://youtu.be/PzUH1ApMCig'
 global.yt = 'https://m.youtube.com/channel/UCzJakcNVDiAVnvuFJ4YAoZA'
 global.dana = '089688069444'
 global.pulsa = '083183321692'
-global.gopay = '089647417373
+global.gopay = '089647417373'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙by botz-MD⳹ ❋ཻུ۪۪'
@@ -32,7 +32,7 @@ global.gc = 'https://chat.whatsapp.com/E7R8oYD1AiKFVTk83Qc0sd'
 global.web = 'https://blog-expres-web.blogspot.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/zalfapontianak'
 global.saweria = 'https://saweria.co/bangdevs'
-global.nomer = 'https://wa.me/62895386445819?text=.daftar+subjectundefined.25' //ganti jadi nomor mu
+global.nomer = 'https://wa.me/p/4996885007104729/6289688069444' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -55,11 +55,11 @@ global.htki = '––––––『'
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '⏳Sabar, sedang diproses. . .'
-global.eror = '_*🚨 Server Bot Sedang Error*_'
+global.wait = '⏳Sabar, sedang memproses output. . .'
+global.eror = '_*🚨 Server Bot Error, Mohon Coba Lagi Lain Kali*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = '⏳ Stiker sedang DiProses'
+global.stiker_wait = '⏳ Tunggu, Stiker sedang Di Proses'
 global.packname = 'Lord'
 global.author = '@dev'
 
