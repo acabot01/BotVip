@@ -5,13 +5,13 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6289688069444','6285795035419','6283183321692','62895411075941','6285828764046'] 
-global.mods = ['6289688069444','6285795035419','6283183321692','62895411075941','6285828764046']
-global.prems = ['6289688069444','6285795035419','6283183321692','62895411075941','6285828764046'] 
+global.owner = ['6289688069444','6285795035419','6283183321692','628995404155','62895411075941','6285828764046','6289688069444'] 
+global.mods = ['6289688069444','6285795035419','6283183321692','628995404155','62895411075941','6285828764046','6289688069444']
+global.prems = ['6289688069444','6285795035419','6283183321692','628995404155','62895411075941','6285828764046','6289688069444'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
-global.numberowner = '62895411075941'
+global.nameowner = 'ᴹᴿ᭄ nomor developerঔৣ꧂'
+global.numberowner = '6283183321692'
 global.instagram = 'https://instagram.com/zalfapontianak'
 global.github = 'https://github.com/Botynyakamu'
 global.tt = 'https://vt.tiktok.com/ZSdc6Dht6/'
@@ -20,11 +20,11 @@ global.ss = 'https://youtu.be/3m7tRD4RklM'
 global.sss = 'https://youtu.be/PzUH1ApMCig'
 global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
 global.dana = '089688069444'
-global.pulsa = '085828764046'
-global.gopay = '085828764046'
+global.pulsa = '083183321692'
+global.gopay = '089647417373
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.namebot = '❋ཻུ۪۪⸙by botz-MD⳹ ❋ཻུ۪۪'
 global.gc = 'https://chat.whatsapp.com/E7R8oYD1AiKFVTk83Qc0sd'
 global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/zalfapontianak'
