@@ -8,31 +8,31 @@
 // SC SEDIKIT DI KEMBANGKAN OLEH BANG AZ
 
 //=============『 Utama 』================== //
-global.owner = ['6289688069444','6285795035419','6289647417373','6283183321692','628995404155','62895411075941','62895386445819','6285828764046','6289518487462','6285228906300','6283183321692'] 
-global.mods = ['6289688069444','6285795035419','6289647417373','6283183321692','628995404155','62895411075941','62895386445819','6285828764046','6289518487462','6285228906300','6283183321692'] 
-global.prems = ['6289688069444','6285795035419','6289647417373','6283183321692','628995404155','62895411075941','62895386445819','6285828764046','6289518487462','6285228906300','6283183321692'] 
+global.owner = ['6282195322106']
+global.mods = ['6282195322106']
+global.prems = ['6282195322106']
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ nomor developerঔৣ꧂'
-global.numberowner = '6283183321692'
-global.instagram = 'https://instagram.com/zalfapontianak'
-global.github = 'https://github.com/devbotmail'
-global.tt = 'https://vt.tiktok.com/ZSdc6Dht6/'
-global.sc = 'https://github.com/lordarmus/BotVip'
-global.ss = 'https://youtu.be/3m7tRD4RklM'
-global.sss = 'https://youtu.be/PzUH1ApMCig'
-global.yt = 'https://m.youtube.com/channel/UCzJakcNVDiAVnvuFJ4YAoZA'
-global.dana = '089688069444'
-global.pulsa = '083183321692'
-global.gopay = '089647417373'
+global.numberowner = '6282195322106'
+global.instagram = 'https://instagram.com'
+global.github = 'https://github.com'
+global.tt = 'https://vt.tiktok.com/'
+global.sc = 'https://github.com'
+global.ss = 'https://youtu.be'
+global.sss = 'https://youtu.be'
+global.yt = 'https://m.youtube.com'
+global.dana = '6282195322106'
+global.pulsa = '6282195322106'
+global.gopay = '6282195322106'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙by botz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/E7R8oYD1AiKFVTk83Qc0sd'
-global.web = 'https://blog-expres-web.blogspot.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/zalfapontianak'
-global.saweria = 'https://saweria.co/bangdevs'
-global.nomer = 'https://wa.me/p/4996885007104729/6289688069444' //ganti jadi nomor mu
+global.namebot = '❋ཻུ۪۪⸙Hinata-MD⳹ ❋ཻུ۪۪'
+global.gc = 'https://chat.whatsapp.com'
+global.web = 'https://s.id/Cerdasin62' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = 'https://instagram.com'
+global.saweria = 'https://saweria.co/'
+global.nomer = 'https://wa.me/6282195322106' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -47,10 +47,10 @@ global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/3c4d1c12719a0dac73eeb.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪⸙ByBot-MD⳹ ❋ཻུ۪۪'
+global.wm = '❋ཻུ۪۪⸙Hinata-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ lord 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by Wudysoff'
+global.wm3 = 'ᯤ Hinata'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -60,8 +60,8 @@ global.eror = '_*🚨 Server Bot Error, Mohon Coba Lagi Lain Kali*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Tunggu, Stiker sedang Di Proses'
-global.packname = 'Lord'
-global.author = '@dev'
+global.packname = 'Created By'
+global.author = 'Hinata Md'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
@@ -78,7 +78,7 @@ global.APIs = { // API Prefix
   bg: 'http://bochil.ddns.net',
   fdci: 'https://api.fdci.se',
   dzx: 'https://api.dhamzxploit.my.id',
-  bsbt: 'https://bsbt-api-rest.herokuapp.com',
+  bsbt: 'https://rest-beni.herokuapp.com',
   zahir: 'https://zahirr-web.herokuapp.com',
   zeks: 'https://api.zeks.xyz',
   zekais: 'http://zekais-api.herokuapp.com',
@@ -87,21 +87,21 @@ global.APIs = { // API Prefix
   erdwepe: 'https://erdwpe-api.herokuapp.com',
   lolhuman: 'https://api.lolhuman.xyz',
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
-  rey: 'https://server-api-rey.herokuapp.com'
+  rey: 'https://sekha.me'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://melcanz.com': 'elaina',
-  'https://server-api-rey.herokuapp.com': 'apirey',
-  'https://api.xteam.xyz': 'd37372311698ed1d',
+  'https://melcanz.com': 'manHkmst',
+  'https://sekha.me': 'apirey',
+  'https://api.xteam.xyz': 'NezukoTachibana281207',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://bsbt-api-rest.herokuapp.com': 'benniismael',
+  'https://rest-beni.herokuapp.com': 'benniismael',
   'https://api.zeks.xyz': 'apivinz',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
   'https://pencarikode.xyz': 'pais', 
-  'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://leyscoders-api.herokuapp.com': 'MIMINGANZ',
+  'https://zekais-api.herokuapp.com': 'zekais',
+  'https://api.lolhuman.xyz': '9b817532fadff8fc7cb86862',
 }
 
 //=============『 RPG GAMES 』================== //
