@@ -8,13 +8,13 @@
 // SC SEDIKIT DI KEMBANGKAN OLEH BANG AZ
 
 //=============『 Utama 』================== //
-global.owner = ['6282195322106']
-global.mods = ['6282195322106']
-global.prems = ['6282195322106']
+global.owner = ['6283167581315']
+global.mods = ['6283167581315']
+global.prems = ['6283167581315']
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ nomor developerঔৣ꧂'
-global.numberowner = '6282195322106'
+global.numberowner = '6283167581315'
 global.instagram = 'https://instagram.com'
 global.github = 'https://github.com'
 global.tt = 'https://vt.tiktok.com/'
